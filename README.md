@@ -99,3 +99,19 @@ Balanza_Achondroplasia_FGFR3_Mutation_Lab/
 │
 ├── disease_gene_background.md
 └── README.md
+
+References
+
+1. Legare, J. M., & Modaff, P. (2026). Achondroplasia. In GeneReviews®. University of Washington, Seattle.
+
+2. NCBI ClinVar. NM_000142.5(FGFR3):c.1138G>A (p.Gly380Arg) AND Achondroplasia. The current ClinVar record classifies this germline variant as pathogenic.
+
+3. NCBI RefSeq. FGFR3 transcript NM_000142.5 and protein NP_000133.1. Reference sequence information used for the FGFR3 sequence analysis.
+
+4. NCBI ClinVar. FGFR3 c.1138G>A (p.Gly380Arg). ClinVar records describe this as a missense variant associated with achondroplasia.
+
+5. GeneReviews®. Achondroplasia: Molecular Genetics. The p.Gly380Arg variant is associated with constitutive activation of FGFR3 and altered signaling affecting growth-plate chondrocytes.
+
+6. Galaxy Project. Galaxy: An open, web-based platform for accessible, reproducible biomedical data analysis. Used for sequence processing and translation during the laboratory activity.
+
+7. NCBI. National Center for Biotechnology Information. Reference sequence and variant databases used for FGFR3 analysis.
